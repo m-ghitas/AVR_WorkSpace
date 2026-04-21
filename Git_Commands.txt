@@ -1,0 +1,8 @@
+git bash here > git init 	//to create your repository
+
+git status			//to get the status of the files inside the repository
+
+git add file_name.ext		//to add single file from UNSTAGE to STAGE
+
+git add .			//to add all files from UNSTAGE to STAGE
+
